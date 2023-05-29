@@ -80,7 +80,10 @@ public class Category {
 				+ categoryDescriptioin + "]";
 	}
 public void getAccount(String accountName){
-
+</buildSpec>
+	
 }
+	public void setProducts(List<Product> products) {
+		this.products = products;
 	
 }
